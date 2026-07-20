@@ -1,0 +1,25 @@
+{
+  "created_at": "2026-07-20T20:58:03.655987+00:00",
+  "figures": 30,
+  "paper": "manuscript/paper.md",
+  "paper_sha256": "572ba3983c545b3dff89c635f1dd2cc9343f1c0685b0e99da50b5e2918a1cdfc",
+  "paper_words": 5606,
+  "protocol_id": "sv1-v5-retrieval-audit-20260721",
+  "replacements": {
+    "{{CONFIRMATION_COVERAGE}}": "19.4",
+    "{{CONFIRMATION_WINDOWS}}": "1,872",
+    "{{DATASET_WINS}}": "5",
+    "{{DECISION}}": "inconclusive",
+    "{{DEVELOPMENT_COVERAGE}}": "20.2",
+    "{{DEVELOPMENT_PERCENT}}": "0.64",
+    "{{K}}": "8",
+    "{{PRIMARY_CI}}": "[-0.31%, 4.08%]",
+    "{{PRIMARY_PERCENT}}": "1.25",
+    "{{PROBABILITY_POSITIVE}}": "0.934",
+    "{{SERIES_TOTAL}}": "234",
+    "{{TEMPERATURE}}": "0.05",
+    "{{THRESHOLD}}": "0.71135"
+  },
+  "tex": "manuscript/paper.tex",
+  "tex_sha256": "195e7a3dd7a4fee1792c131240740a6d90846013ea85dae29c72dc72c747a418"
+}
